@@ -1,2 +1,2 @@
 # fearfreepractical
-Practical challenger for Fear Free Jr Dev
+Practical challenge for Fear Free Jr Dev
